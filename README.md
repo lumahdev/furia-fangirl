@@ -1,4 +1,4 @@
-# Fani, a Fangirl
+# 🙋‍♀️ Fani, a Fangirl
 
 **Fani, uma Fangirl** é um chatbot criado especialmente para fãs dos times de CS da **FURIA** que querem saber tudo sobre eles. Chega de abrir 300 telas para fazer perguntas sobre seu time favorito ou procurar informações que você não encontra em lugar nenhum, basta perguntar para a **Fani** e o histórico das suas mensagens será salvo.
 
